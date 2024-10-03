@@ -1,4 +1,4 @@
-# Starter Expo-react-native avec Bun, Expo Router et Nativewind
+# Starter Expo-react-native avec Bun, Expo Router et Nativewind ✏️😊
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
